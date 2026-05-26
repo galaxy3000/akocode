@@ -1,5 +1,5 @@
-# Model
-code for paper: ['']
+# MFRANet
+MFRANet: Multimodal Feature Refinement and Alignment Network for Short-Video Fake News Detection
 ## Environment
 please refer to the file requirements.txt.
 ## Dataset
